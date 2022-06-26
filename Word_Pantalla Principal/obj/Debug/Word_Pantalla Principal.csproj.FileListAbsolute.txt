@@ -1,0 +1,25 @@
+E:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\bin\Debug\Word_Pantalla Principal.exe.config
+E:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\bin\Debug\Word_Pantalla Principal.exe
+E:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\bin\Debug\Word_Pantalla Principal.pdb
+E:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla Principal.csprojResolveAssemblyReference.cache
+E:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla_Principal.Form1.resources
+E:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla_Principal.Properties.Resources.resources
+E:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla Principal.csproj.GenerateResource.Cache
+E:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla Principal.exe
+E:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla Principal.pdb
+E:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla_Principal.Word1.resources
+E:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla_Principal.Word2.resources
+E:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla_Principal.Word3.resources
+D:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\bin\Debug\Word_Pantalla Principal.exe.config
+D:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\bin\Debug\Word_Pantalla Principal.exe
+D:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\bin\Debug\Word_Pantalla Principal.pdb
+D:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla Principal.csproj.AssemblyReference.cache
+D:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla_Principal.Form1.resources
+D:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla_Principal.Properties.Resources.resources
+D:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla_Principal.Word1.resources
+D:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla_Principal.Word2.resources
+D:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla_Principal.Word3.resources
+D:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla Principal.csproj.GenerateResource.cache
+D:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla Principal.csproj.CoreCompileInputs.cache
+D:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla Principal.exe
+D:\STEVEN\Proyecto_WEPP+\Pantalla Word\Word_1\Word_Pantalla Principal\Word_Pantalla Principal\obj\Debug\Word_Pantalla Principal.pdb
